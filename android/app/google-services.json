@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716530752125",
+    "project_id": "exam-app-dfbb9",
+    "storage_bucket": "exam-app-dfbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716530752125:android:7b8b126454c11672fc2f14",
+        "android_client_info": {
+          "package_name": "com.lottechem.lcplacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCDKG9szBe5s1XIqJpTVJ4wQx6Y103Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716530752125:android:b502734cc0c2166dfc2f14",
+        "android_client_info": {
+          "package_name": "com.lottechem.lcpladmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCDKG9szBe5s1XIqJpTVJ4wQx6Y103Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
